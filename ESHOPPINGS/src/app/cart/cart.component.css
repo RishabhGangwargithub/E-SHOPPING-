@@ -1,0 +1,15 @@
+#candidate {
+    border-radius: 20%;
+    border-color: aquamarine;
+    box-sizing: border-box;
+}
+
+.buttonClass {
+    border-radius: 20%;
+    border-color: aqua;
+    border-style: inherit;
+}
+
+button:hover {
+    background-color: green;
+}
